@@ -1,0 +1,14 @@
+
+.about .para{
+    padding: 5%;
+    display: flex;
+    align-items: center;
+}
+.para img{
+    margin-right: 50px;
+    border-radius: 10px;
+}
+.about-container{
+  padding-left: 10%;
+  padding-right: 10%;
+}
