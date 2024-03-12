@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/scrapsitereact/static/css/main.d683dd88.css",
+    "main.js": "/scrapsitereact/static/js/main.3e1d35c2.js",
+    "static/media/new scrap2.jpg": "/scrapsitereact/static/media/new scrap2.fc6db358b0760bfe9254.jpg",
+    "static/media/ss5.png": "/scrapsitereact/static/media/ss5.dfa57d31080f0b065647.png",
+    "static/media/ss2.png": "/scrapsitereact/static/media/ss2.1f345a7be5a26adb9bd6.png",
+    "static/media/ss3.png": "/scrapsitereact/static/media/ss3.6abd2179c8f2556fd084.png",
+    "static/media/ss4.png": "/scrapsitereact/static/media/ss4.f52cd2cd591fd044e971.png",
+    "static/media/cd7.jpg": "/scrapsitereact/static/media/cd7.81f49cefe1506f20aed6.jpg",
+    "static/media/cd4.jpg": "/scrapsitereact/static/media/cd4.5045f99c5532bca056eb.jpg",
+    "static/media/cd2.jpg": "/scrapsitereact/static/media/cd2.c05c8fc280d1073009c0.jpg",
+    "static/media/cd9.jpg": "/scrapsitereact/static/media/cd9.e3aa8ded07667e2c98f8.jpg",
+    "static/media/cd6.jpg": "/scrapsitereact/static/media/cd6.0c3af3c90dbc58a32027.jpg",
+    "static/media/d10.jpg": "/scrapsitereact/static/media/d10.277a49370e5a6f63fc3b.jpg",
+    "static/media/scr1.jpg": "/scrapsitereact/static/media/scr1.609da12989294ed6480a.jpg",
+    "static/media/src6.jpg": "/scrapsitereact/static/media/src6.98a17f92356041bc3fc9.jpg",
+    "static/media/src4.jpg": "/scrapsitereact/static/media/src4.1c942c3d1f368c016035.jpg",
+    "static/media/scr8.jpg": "/scrapsitereact/static/media/scr8.30be24e8779c3a79c078.jpg",
+    "static/media/scr7.jpg": "/scrapsitereact/static/media/scr7.a730742509bd9eaf099a.jpg",
+    "static/media/scr10.jpg": "/scrapsitereact/static/media/scr10.396fc1c44830f8105788.jpg",
+    "static/media/cd8.jpg": "/scrapsitereact/static/media/cd8.b69467482a2f3108ef71.jpg",
+    "static/media/scr3.jpg": "/scrapsitereact/static/media/scr3.60fecc837f0aa1250ba6.jpg",
+    "static/media/d8.jpg": "/scrapsitereact/static/media/d8.81f3c23118190acf2ab7.jpg",
+    "static/media/src5.jpg": "/scrapsitereact/static/media/src5.156ae7096f3adfbbef11.jpg",
+    "index.html": "/scrapsitereact/index.html",
+    "main.d683dd88.css.map": "/scrapsitereact/static/css/main.d683dd88.css.map",
+    "main.3e1d35c2.js.map": "/scrapsitereact/static/js/main.3e1d35c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d683dd88.css",
+    "static/js/main.3e1d35c2.js"
+  ]
+}
