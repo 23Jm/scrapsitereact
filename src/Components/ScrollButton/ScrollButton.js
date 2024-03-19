@@ -23,12 +23,14 @@ const ScrollButton = () => {
       <button
         className="scroll-button scroll-button-up"
         onClick={() => handleScrollUp()}
+        title="scr"
       >
         <MdOutlineArrowUpward />
       </button>
       <button
         className="scroll-button scroll-button-down"
         onClick={() => handleScrollDown()}
+        title="scr"
       >
         <MdOutlineArrowDownward />
       </button>

@@ -26,3 +26,51 @@
 .contact-btn{
     color: white;
 }
+@media(max-width:840px){
+   .hero{
+    width: 100%;
+    min-height: 50vh;
+    padding-top: 60px;
+}
+
+
+.hero-text h1{
+    color: #aafc38;
+    font-size: 25px;
+    font-weight: 600;
+    max-width: 300px;
+}
+.hero-text p{
+    max-width: 300px;
+    margin: 30px auto 20px;
+    line-height: 1.56;
+    color: white;
+}
+.contact-btn{
+    color: white;
+}
+}
+@media(max-width:600px){
+   .hero{
+    width: 100%;
+    min-height: 50vh;
+    padding-top: 120px;
+}
+
+
+.hero-text h1{
+    color: #aafc38;
+    font-size: 25px;
+    font-weight: 600;
+    max-width: 300px;
+}
+.hero-text p{
+    max-width: 300px;
+    margin: 30px auto 20px;
+    line-height: 1.56;
+    color: white;
+}
+.contact-btn{
+    color: white;
+}
+}

@@ -18,20 +18,20 @@ const Hero = () => {
             exit={{ opacity: 0 }}
             transition={{ duration: 3 }}
           >
-            Scrap metal recycling for a greener planet
+            Your go-to destination for all your scrap collection needs!
           </motion.h1>
         </AnimatePresence>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut similique
-          fuga asperiores nihil perspiciatis officiis molestiae voluptates
-          aliquam iure ratione. Doloribus voluptate culpa repreh enderit
-          aperiam? Esse iste voluptas fugiat itaque.
+          At Meenakshi Scraps, we are passionate about environmental
+          sustainability and recycling. We strive to make the process of
+          collecting scraps easy and convenient for our customers, while also
+          playing our part in preserving the planet for future generations.
         </p>
-        <button className="btn">
+        <div className="btn">
           <Link to="/contact" className="contact-btn">
             Contact
           </Link>
-        </button>
+        </div>
       </div>
     </motion.div>
   );

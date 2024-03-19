@@ -17,13 +17,13 @@ h2{
   align-items: center;
   justify-content: space-between;
   margin: 30px 0;
-
 }
+
 .address,.email,.phone{
    border: 1px solid #2c2b2b;
    margin: 16px;
-   width: 350px;
-   height: 350px;
+   width: 300px;
+   height: 300px;
    padding: 40px 20px;
    text-align: center;
    background-color: #aacf38;
@@ -44,4 +44,17 @@ h2{
 .add,.mail,.call{
     font-size:60px;
     margin-top: 20px
+}
+@media (max-width:840px){
+    .contact-details{
+        display: flex;
+        flex-direction: column;
+    }
+    .add,.mail,.call{
+    font-size:40px;
+    margin-top: 20px
+}
+.address-text h2,.email-text h2,.phone-text h2{
+  font-size: 30px;
+}
 }

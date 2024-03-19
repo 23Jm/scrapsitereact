@@ -6,7 +6,9 @@
     color: #aacf38;
     text-align: center;
 }
-
+.top{
+    margin-top: 20px;
+}
 h2{
     font-size:40px;
     /* color: #2c2b2b; */
@@ -60,6 +62,9 @@ input::placeholder,textarea::placeholder{
     font-size: 10px;
     color: rgb(159, 155, 155);
 }
+.top{
+    margin-top: 20px;
+}
 .send-message .result{
     color: lightgray;
     margin-left: 10px;
@@ -79,9 +84,15 @@ input::placeholder,textarea::placeholder{
     resize: none;
 }
 
+.reach-details{
+    margin-top: 20px;
+}
 .contact .result{
     display: block;
     margin: 20px 0;
     color: #aacf38;
     margin-left: 10px;
+}
+.contact .location-details{
+    padding-left: 130px;
 }

@@ -18,87 +18,87 @@ const Cards = () => {
         <div className="card">
           <img src={card1} alt="" />
           <h4>Second hand Furniture and Fixture Buyer</h4>
-          <button className="btn-outline">
+          <div className="btn-outline">
             <Link to="/contact" className="btn-outline-no">
               Contact
             </Link>
-          </button>
+          </div>
         </div>
         <div className="card">
           <img src={card2} alt="" />
           <h4>Old Books and Newspaper Buyer</h4>
-          <button className="btn-outline">
+          <div className="btn-outline">
             <Link to="/contact" className="btn-outline-no">
               Contact
             </Link>
-          </button>
+          </div>
         </div>
         <div className="card">
           <img src={card3} alt="" />
           <h4>Plastic Scrap</h4>
-          <button className="btn-outline">
+          <div className="btn-outline">
             <Link to="/contact" className="btn-outline-no">
               Contact
             </Link>
-          </button>
+          </div>
         </div>
       </div>
       <div className="row">
         <div className="card">
           <img src={card4} alt="" />
           <h4>Electric wire & Power cable buyer</h4>
-          <button className="btn-outline">
+          <div className="btn-outline">
             <Link to="/contact" className="btn-outline-no">
               Contact
             </Link>
-          </button>
+          </div>
         </div>
         <div className="card">
           <img src={card5} alt="" />
           <h4>Glass Scrap</h4>
-          <button className="btn-outline">
+          <div className="btn-outline">
             <Link to="/contact" className="btn-outline-no">
               Contact
             </Link>
-          </button>
+          </div>
         </div>
         <div className="card">
           <img src={card6} alt="" />
           <h4>All types of metal scrap buyer</h4>
-          <button className="btn-outline">
+          <div className="btn-outline">
             <Link to="/contact" className="btn-outline-no">
               Contact
             </Link>
-          </button>
+          </div>
         </div>
       </div>
       <div className="row">
         <div className="card">
           <img src={card7} alt="" />
           <h4>Old Machinery buyer</h4>
-          <button className="btn-outline">
+          <div className="btn-outline">
             <Link to="/contact" className="btn-outline-no">
               Contact
             </Link>
-          </button>
+          </div>
         </div>
         <div className="card">
           <img src={card8} alt="" />
           <h4>Old Air Conditioner Buyer</h4>
-          <button className="btn-outline">
+          <div className="btn-outline">
             <Link to="/contact" className="btn-outline-no">
               Contact
             </Link>
-          </button>
+          </div>
         </div>
         <div className="card">
           <img src={card9} alt="" />
           <h4>Battery Scrap</h4>
-          <button className="btn-outline">
+          <div className="btn-outline">
             <Link to="/contact" className="btn-outline-no">
               Contact
             </Link>
-          </button>
+          </div>
         </div>
       </div>
     </div>

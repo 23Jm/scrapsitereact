@@ -32,3 +32,17 @@
 .scroll-button-down {
     margin-bottom: 0;
 }
+@media (max-width:840px) {
+    .scroll-buttons-overlay{
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+    z-index: 999;
+}
+.scroll-button {
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    border: 1px dashed black;
+}
+}

@@ -16,6 +16,7 @@ ul li{
     list-style-type: none;
 }
 .btn{
+    display: inline;
     background-color: #aacf38;
     color: #fff;
     border: 0;
@@ -37,6 +38,8 @@ ul li{
     cursor: pointer;
 }
 .btn-outline{
+    margin-top: 20px;
+    display: inline;
     background-color: transparent;
     color: #aacf38;
     border: 1px solid #aacf38;
@@ -64,4 +67,38 @@ ul li{
 }
 .btn-outline-no:hover{
     color: white;
+}
+.location-details{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+.reach-us{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin:0 60px;
+    max-width: 500px;
+}
+.reach-us h2{
+    margin-bottom: 20px;
+    color: #aacf38;
+}
+.reach-us div{
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 35px;
+    max-width: 500px;
+}
+
+.reach-details p{
+    margin-top: 20px;
+    color: black;
+}
+@media (max-width:840px) {
+    .container{
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
